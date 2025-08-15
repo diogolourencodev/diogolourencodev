@@ -47,6 +47,9 @@ I’m a passionate software engineering student and cybersecurity enthusiast, al
 A Python tool for searching software and system vulnerabilities (CVEs) using public APIs like NIST NVD.  
 CVSearch helps security professionals and learners quickly access detailed vulnerability data from the command line.
 
+### [Discord Researcher](https;//github.com/diogolourencodev/discord-researcher)
+A Web tool that uses APIs linked to Discord, with Discord's WebHook management system, validation of Server invitation links, among others.
+
 ### [More Projects](https://github.com/diogolourencodev?tab=repositories)
 Explore my repositories for scripts, tools, and experiments in cybersecurity, automation, and software development.
 
